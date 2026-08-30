@@ -1,0 +1,7 @@
+* text=auto
+*.command text eol=lf
+*.py text eol=lf
+*.md text
+*.txt text
+*.pyc binary
+*.exe binary
